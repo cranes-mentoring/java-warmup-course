@@ -18,7 +18,6 @@ public class LessonTwo {
         var officeConnector = new OfficeConnector("localhost", 8080);
         officeConnector.connect(); // own
 
-
         // Polymorphism
         var office = new Office("Budva-1");
         var officeConnectorOne = new OfficeConnector("localhost", 8080);
