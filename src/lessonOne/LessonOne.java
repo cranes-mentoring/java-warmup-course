@@ -1,5 +1,8 @@
 package lessonOne;
 
+import lessonOne.eq.UsefulObject;
+import lessonOne.recordExample.UserPost;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;

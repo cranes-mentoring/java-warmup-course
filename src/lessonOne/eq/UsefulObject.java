@@ -1,4 +1,4 @@
-package lessonOne;
+package lessonOne.eq;
 
 import java.util.Objects;
 

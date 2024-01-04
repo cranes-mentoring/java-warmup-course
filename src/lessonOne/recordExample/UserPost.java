@@ -1,6 +1,6 @@
-package lessonOne;
+package lessonOne.recordExample;
 
-record UserPost(
+public record UserPost(
         String user,
         String postRid,
         int size
