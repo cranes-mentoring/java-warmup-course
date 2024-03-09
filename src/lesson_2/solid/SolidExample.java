@@ -1,5 +1,8 @@
 package lesson_2.solid;
 
+import lesson_2.solid.lp.InternetConnector;
+import lesson_2.solid.lp.MobileConnector;
+import lesson_2.solid.lp.Router;
 
 public class SolidExample {
 
