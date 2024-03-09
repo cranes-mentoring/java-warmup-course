@@ -1,7 +1,7 @@
-package lessonOne;
+package n1_lesson;
 
-import lessonOne.eq.UsefulObject;
-import lessonOne.recordExample.UserPost;
+import n1_lesson.eq.UsefulObject;
+import n1_lesson.recordExample.UserPost;
 
 import java.io.File;
 import java.io.FileNotFoundException;

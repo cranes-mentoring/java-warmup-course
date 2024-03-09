@@ -1,4 +1,4 @@
-package lessonOne.recordExample;
+package n1_lesson.recordExample;
 
 public record UserPost(
         String user,

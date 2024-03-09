@@ -1,4 +1,4 @@
-package lessonOne.eq;
+package n1_lesson.eq;
 
 import java.util.Objects;
 
