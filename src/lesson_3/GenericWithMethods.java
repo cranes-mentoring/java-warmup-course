@@ -1,4 +1,4 @@
-package lessonThree;
+package lesson_3;
 
 import java.util.Arrays;
 import java.util.List;
@@ -19,7 +19,7 @@ public class GenericWithMethods {
     }
 
     public void findAllHosts(List<? extends Connector> connectors) {
-            connectors.stream().map(Connector::host).forEach(System.out::println);
+        connectors.stream().map(Connector::host).forEach(System.out::println);
     }
 
 }

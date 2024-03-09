@@ -1,4 +1,4 @@
-package lessonThree;
+package lesson_3;
 
 public class GenericWithClasses<T> {
 
