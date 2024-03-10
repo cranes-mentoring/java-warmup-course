@@ -5,6 +5,8 @@ Welcome to the Java warmup course designed for the AQA team. This series of less
 
 ## Lesson 1
 
+Code: [Lesson 1 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_1)
+
 ### Description:
 In this lesson, we cover essential Java concepts such as classes, object-oriented programming (OOP), lambdas, streams, and the 'case' keyword. We'll also explore threads and touch upon the importance of the 'equals' method, along with hints for interviews.
 
@@ -24,6 +26,8 @@ In this lesson, we cover essential Java concepts such as classes, object-oriente
 
 ## Lesson 2
 
+Code: [Lesson 2 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_2)
+
 ### Description:
 Building upon OOP concepts, this lesson delves into SOLID principles and compositions. We'll discuss how to structure classes effectively and create a sample class (e.g., Car) to demonstrate OOP and SOLID principles.
 
@@ -40,6 +44,8 @@ Create your class and implement OOP and SOLID principles around it.
 
 ## Lesson 3
 
+Code: [Lesson 3 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_3)
+
 ### Description:
 Generics are a powerful feature in Java, allowing you to write flexible and reusable code. In this lesson, we explore the fundamentals of generics and how to use them effectively.
 
@@ -54,6 +60,8 @@ Generics are a powerful feature in Java, allowing you to write flexible and reus
 2. Create your class for a Car class.
 
 ## Lesson 4
+
+Code: [Lesson 4 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_4)
 
 ### Description:
 Understanding the Java Virtual Machine (JVM) and Garbage Collection (GC) is crucial for writing efficient Java applications. This lesson provides insights into these key components.
@@ -71,6 +79,8 @@ Read articles about JVM and GC:
 - [GC](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
 ## Lesson 5
+
+Code: [Lesson 5 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_5)
 
 ### Description:
 Threads are fundamental to concurrent programming. This lesson covers threads vs. processes, running threads, features, Executors API, locks, and atomics.
@@ -92,6 +102,8 @@ Threads are fundamental to concurrent programming. This lesson covers threads vs
 
 ## Lesson 6
 
+Code: [Lesson 6 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_6)
+
 ### Description:
 Build tools are essential for project management. This lesson covers popular build tools such as Maven and Gradle.
 
@@ -107,6 +119,8 @@ Save your project as a JAR file.
 
 ## Lesson 7
 
+Code: [Lesson 7 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_7)
+
 ### Topics:
 1. Unit tests
 2. TestNG and Mockk
@@ -115,6 +129,8 @@ Save your project as a JAR file.
 Add tests for your Car class (or your own).
 
 ## Lesson 8
+
+Code: [Lesson 8 Code](https://github.com/cranes-mentoring/java-warmup-course/tree/master/src/lesson_8)
 
 ### Description:
 This extra lesson explores languages beyond Java that can be useful for a team. We touch upon Groovy (testing with Spock), Kotlin (using Mockk in a Kotlin environment), and Scala (Gatling load tests).
