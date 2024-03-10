@@ -1,6 +1,8 @@
 # Java Warmup Course for AQA Team 
 ### Version 2.0.0 (Last Update 03.10.2024)
 
+Level: Junior - Middle.
+
 Welcome to the Java warmup course designed for the AQA team. This series of lessons aims to provide a comprehensive understanding of Java fundamentals and advanced topics. Each lesson comes with classwork, relevant articles, and homework assignments. Let's dive in!
 
 ## Lesson 1
