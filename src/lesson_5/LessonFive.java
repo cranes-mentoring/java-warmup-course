@@ -1,4 +1,4 @@
-package lessonFive;
+package lesson_5;
 
 import java.time.Duration;
 import java.util.concurrent.*;

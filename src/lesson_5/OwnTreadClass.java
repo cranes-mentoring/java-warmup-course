@@ -1,4 +1,4 @@
-package lessonFive;
+package lesson_5;
 
 public class OwnTreadClass extends Thread {
 
