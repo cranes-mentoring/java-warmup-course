@@ -1,4 +1,3 @@
-```markdown
 # Java Warmup Course for AQA Team 
 ### Version 2.0.0 (Last Update 03.10.2024)
 
@@ -138,4 +137,3 @@ Read more about these languages.
 Congratulations on completing the Java Warmup Course for AQA Team! We hope these lessons have provided a solid foundation and expanded your knowledge of Java and related tools. Keep coding and exploring new horizons in the vast world of programming!
 
 Happy coding!
-```
